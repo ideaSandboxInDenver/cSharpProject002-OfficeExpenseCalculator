@@ -1,0 +1,73 @@
+
+Office: Accounting
+Building Location: Hougan
+Office Number: 45
+Desk Cost Per Unit: $425
+Desk Quantity: 2
+Chair Cost Per Unit: $225
+Chair Quantity: 4
+Computer Cost Per Unit: $500
+Computer Quantity: 4
+Executive Station Cost: $1450
+Average item cost without Executive: $375.00
+Total room cost: $5,200.00
+Office Name: Johnson
+Building Name: HQ East
+Office Number: 200
+Desk Cost Per Unit: $425
+Desk Quantity: 4
+Chair Cost Per Unit: $225
+Chair Quantity: 4
+Computer Cost Per Unit: $700
+Computer Quantity: 4
+Executive Station Cost: $2500
+Average item cost without Executive: $450.00
+Total room cost: $7,900.00
+Office Name: Jackson
+Building Name: Headquarters SouthEast
+Office Number: 20
+Desk Cost Per Unit: $525
+Desk Quantity: 10
+Chair Cost Per Unit: $225
+Chair Quantity: 10
+Computer Cost Per Unit: $700
+Computer Quantity: 12
+Executive Station Cost: $1450
+Average item cost without Executive: 
+Total room cost: 
+Office Name: Meyers
+Building Name: Empire State
+Office Number: 501
+Desk Cost Per Unit: $425
+Desk Quantity: 9
+Chair Cost Per Unit: $125
+Chair Quantity: 9
+Computer Cost Per Unit: $700
+Computer Quantity: 10
+Executive Station Cost: $2500
+Average item cost without Executive: $426.00
+Total room cost: $14,450.00
+Office Name: Meyers
+Building Name: Empire State
+Office Number: 501
+Desk Cost Per Unit: $425
+Desk Quantity: 9
+Chair Cost Per Unit: $125
+Chair Quantity: 9
+Computer Cost Per Unit: $700
+Computer Quantity: 10
+Executive Station Cost: $2500
+Average item cost without Executive: $426.00
+Total room cost: $14,450.00
+Office Name: Helms
+Building Name: White House
+Office Number: 100
+Desk Cost Per Unit: $425
+Desk Quantity: 80
+Chair Cost Per Unit: $225
+Chair Quantity: 80
+Computer Cost Per Unit: $600
+Computer Quantity: 85
+Executive Station Cost: $2500
+Average item cost without Executive: $420.00
+Total room cost: $105,500.00
